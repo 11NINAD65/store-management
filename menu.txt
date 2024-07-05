@@ -1,0 +1,62 @@
+menu for supermarket with random prices
+
+
+Fruits & Vegetables:
+
+Apples (1 kg) - ₹120
+Bananas (1 dozen) - ₹50
+Spinach (1 bunch) - ₹30
+Bakery:
+
+Whole Wheat Bread (1 loaf) - ₹40
+Chocolate Cake (500g) - ₹250
+Dairy:
+
+Milk (1 litre) - ₹50
+Cheddar Cheese (200g) - ₹180
+Beverages:
+
+Orange Juice (1 litre) - ₹90
+Mineral Water (1 litre) - ₹20
+Snacks:
+
+Potato Chips (100g) - ₹30
+Dark Chocolate Bar (100g) - ₹100
+Cleaning Supplies:
+
+Laundry Detergent (1 kg) - ₹200
+Dishwashing Liquid (500ml) - ₹150
+Personal Care:
+
+Shampoo (200ml) - ₹120
+Toothpaste (100g) - ₹60
+Meat & Seafood:
+
+Chicken Breast (1 kg) - ₹220
+Fresh Salmon Fillet (500g) - ₹450
+Shrimp (500g) - ₹350
+Frozen Foods:
+
+Mixed Vegetables (500g) - ₹100
+Ice Cream (1 tub) - ₹150
+Chicken Nuggets (300g) - ₹200
+Pantry Essentials:
+
+Olive Oil (500ml) - ₹350
+Pasta (500g) - ₹80
+Canned Tomatoes (400g) - ₹60
+Cereals & Breakfast Foods:
+
+Cornflakes (500g) - ₹150
+Oatmeal (500g) - ₹120
+Pancake Mix (250g) - ₹90
+Condiments & Spices:
+
+Tomato Ketchup (500g) - ₹120
+Mixed Herbs (50g) - ₹60
+Chili Powder (100g) - ₹40
+Health & Wellness:
+
+Multivitamin Tablets (60 count) - ₹500
+Protein Powder (1 kg) - ₹3000
+Green Tea Bags (25 count) - ₹150
