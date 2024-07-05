@@ -1,6 +1,6 @@
-create database Store;
+create database store;
 
-use Store;
+use store;
 
 create table stock(Item_No int Primary key, Name varchar(50), Quantity int, Price int);
 
