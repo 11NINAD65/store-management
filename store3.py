@@ -4,7 +4,7 @@ from art import tprint
 import cv2
 from pyzbar.pyzbar import decode
 
-con = msc.connect(host='localhost',user='root',password='12345',auth_plugin='mysql_native_password',database='Store')
+con = msc.connect(host='localhost', user='root', password=your-mysql-password-here, auth_plugin='mysql_native_password', database='Store')
 if con.is_connected():
     print("Connection established...")
 cursor = con.cursor()
