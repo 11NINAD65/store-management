@@ -88,7 +88,7 @@ CREATE TABLE Stock (
 
 ---
 
-## 📁 Sample QR Scanning Setup
+## 📁 Sample QR Scanning Setup if you don't have Webcam
 
 To scan using a **mobile camera**:
 1. Download **DroidCam** on your phone and PC.
@@ -121,12 +121,6 @@ store-management/
 - Command-line interface design
 - Error handling and user validation
 - File handling and data persistence
-
----
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
